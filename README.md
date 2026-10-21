@@ -1,3 +1,5 @@
+AI launcher!
+
 # Rihu Client Launcher
 
 A personal Minecraft: Java Edition launcher written in Python, made for learning. Version 0.1.0, early development.
