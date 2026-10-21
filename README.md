@@ -1,4 +1,4 @@
-AI launcher!
+Built with help from an AI.
 
 # Rihu Client Launcher
 
